@@ -1,0 +1,13 @@
+# Dependências unificadas para todos os projetos OWASP LLM Demo
+# Para instalar em um ambiente único (opcional):
+# pip install -r requirements-all.txt
+
+Flask==2.2.5
+requests==2.31.0
+Werkzeug==2.2.3
+
+# Opcional: para desenvolvimento
+# pytest==7.4.3
+# black==23.11.0
+# flake8==6.1.0
+
